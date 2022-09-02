@@ -1,19 +1,17 @@
 # Привіт 👋🏻 Мене звати Сергій Миколаєнко
 
 ## Мій стек:
-- JavaScript / ES6+
-- HTML5
-- CSS3
-- SCSS
-- GIT
-- WebPack
-- BEM methodology
+* JavaScript / ES6+
+* HTML5
+* CSS3
+* SCSS
+* GIT
+* BEM methodology
+* WebPack
+* Пишу і обожнюю WebStorm
 
-
-- Пишу і обожнюю WebStorm
-
-## Та інший стек:
-- Discord
-- CorelDraw
-- Tilda
-- Photoshop
+## Iнші технічні навички:
+* Discord
+* CorelDraw
+* Tilda
+* Photoshop
