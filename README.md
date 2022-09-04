@@ -15,3 +15,4 @@
     - CorelDraw
     - Tilda
     - Photoshop
+    - Miro
