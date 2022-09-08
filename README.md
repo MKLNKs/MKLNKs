@@ -11,8 +11,9 @@
     - Пишу і обожнюю WebStorm
 
 ## Iнші технічні навички:
-    - Discord
-    - CorelDraw
     - Tilda
+    - Discord
+    - Trello
+    - CorelDraw
     - Photoshop
     - Miro
