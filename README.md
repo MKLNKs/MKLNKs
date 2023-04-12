@@ -1,6 +1,6 @@
-# Привіт 👋🏻 Мене звати Сергій Миколаєнко
+# Hi guys 👋🏻 My name is Serhii Mykolaienko
 
-## Мій стек:
+## My stack:
     - JavaScript / ES6+
     - HTML5
     - CSS3
