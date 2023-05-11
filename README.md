@@ -7,10 +7,9 @@
     - SCSS
     - GIT
     - BEM methodology
-    - WebPack
-    - Пишу і обожнюю WebStorm
 
-## Iнші технічні навички:
+## Utility:
+    - Пишу і обожнюю WebStorm
     - Tilda
     - Discord
     - Trello
