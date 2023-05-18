@@ -7,18 +7,7 @@ Whenever I worked on these projects, I always enjoyed the process and the result
 I have an understanding of HTML, CSS, JavaScript, and React, and I continue to learn. I'm going to learn TypeScript and FrontEnd testing.
 
 ## My stack:
-    - JavaScript / ES6+
-    - HTML5
-    - CSS3
-    - SCSS
-    - GIT
-    - BEM methodology
+    JavaScript / ES6+ / HTML5 / CSS3 / SCSS / GIT / BEM methodology
 
 ## Utility:
-    - Пишу і обожнюю WebStorm
-    - Tilda
-    - Discord
-    - Trello
-    - CorelDraw
-    - Photoshop
-    - Miro
+    Пишу та обожнюю WebStorm / Tilda / Discord / Trello / CorelDraw / Photoshop / Miro
