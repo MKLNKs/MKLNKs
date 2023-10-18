@@ -10,4 +10,4 @@ I have an understanding of HTML, CSS, JavaScript, and React, and I continue to l
     JavaScript / ES6+ / HTML5 / CSS3 / SCSS / GIT / BEM methodology
 
 ## Utility:
-    WebStorm / Tilda / Discord / Trello / CorelDraw / Photoshop / Miro
+    VS Code / Jira / Lens Studio / WebStorm / Tilda / Discord / Trello / CorelDraw / Photoshop
