@@ -7,7 +7,10 @@ Whenever I worked on these projects, I always enjoyed the process and the result
 I have an understanding of HTML, CSS, JavaScript, and React, and I continue to learn. I'm going to learn TypeScript and FrontEnd testing.
 
 ## My stack:
-    JavaScript / ES6+ / HTML5 / CSS3 / SCSS / GIT / BEM methodology
+    Ahrefs / Google Analytics / Google Search Console / Google Tag Manager / Google Ads / Google Keyword Planner / Screaming Frog
+
+###Other:
+    JavaScript / ES6+ / HTML5 / CSS3 / SCSS / GIT
 
 ## Utility:
-    VS Code / Jira / Lens Studio / WebStorm / Tilda / Discord / Trello / CorelDraw / Photoshop
+    CorelDraw / Photoshop / VS Code / Lens Studio / WebStorm / Tilda / Trello
