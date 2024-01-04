@@ -9,7 +9,7 @@ I have an understanding of HTML, CSS, JavaScript, and React, and I continue to l
 ## My stack:
     Ahrefs / Google Analytics / Google Search Console / Google Tag Manager / Google Ads / Google Keyword Planner / Screaming Frog
 
-###Other:
+### Other:
     JavaScript / ES6+ / HTML5 / CSS3 / SCSS / GIT
 
 ## Utility:
